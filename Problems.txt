@@ -1,0 +1,39 @@
+1. Create a variable and store your name in it. Then, use `console.log()` to print it to the console.
+
+2. Write a function that takes two numbers as arguments and returns their sum.
+
+3. Write a function that takes a string as an argument and returns its length.
+
+4. Write a function that checks if a given number is even. It should return `true` if the number is even and `false` if it's not.
+
+5. Create an array of your favorite fruits. Use a loop to print each fruit to the console.
+
+6. Write a function that takes an array of numbers and returns the sum of all the numbers in the array.
+
+7. Write a function that takes a number as an argument and returns "Even" if it's even and "Odd" if it's odd.
+
+8. Create an object that represents a person with properties for their name, age, and gender.
+
+9. Write a function that takes an array of strings and returns a new array with the strings reversed.
+
+10. Create a simple calculator program that can add, subtract, multiply, and divide two numbers. Use functions to perform each operation.
+
+11. Write a function that takes an array of numbers and returns the largest number in the array.
+
+12. Write a function that takes a string as an argument and returns a new string with all the vowels removed.
+
+13. Create an array of numbers and use a loop to find the sum of all the numbers in the array.
+
+14. Write a function that takes an array of names and returns a greeting for each name in the format "Hello, [Name]!".
+
+15. Create an object that represents a car with properties for its make, model, and year.
+
+16. Write a function that takes a number as an argument and returns the factorial of that number.
+
+17. Create a simple to-do list program. You should be able to add and remove items from the list.
+
+18. Write a function that takes an array of numbers and returns a new array with only the even numbers.
+
+19. Create an object that represents a book with properties for its title, author, and number of pages.
+
+20. Write a function that takes a string as an argument and checks if it's a palindrome (reads the same forwards and backwards). Return `true` if it is, and `false` if it's not.
